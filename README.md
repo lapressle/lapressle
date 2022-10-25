@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to better balance life and the research I love!
 - 👯 I’m looking to collaborate on automating data analysis and creating open source tools for scientists like myself to help young graduate students in their research!
 - 🤔 I’m looking for help with better designing efficient code that is easily parsed by younger scientists.
-- 💬 Ask me about music, muder myster novels, and scary movies.
+- 💬 Ask me about music, murder myster novels, and scary movies.
 - 📫 How to reach me: lucaspressley@gmail.com
 - 😄 Pronouns: he/him
 - :mortar_board: https://orcid.org/0000-0002-0765-3333
